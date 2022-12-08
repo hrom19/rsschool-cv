@@ -7,6 +7,6 @@
 3)	I would like to enter IT 
 4)	This is what I’m here for
 5)	Code example:
-7)	I don’t have yet
+7)	cv.md
 8)	Higher education
 9)	A2
